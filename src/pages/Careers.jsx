@@ -135,7 +135,7 @@ function Careers() {
                 </div>
                 <p className="text-gray-700 mb-4">{position.description}</p>
                 <a
-                  href="mailto:careers@sanasofts.com?subject=Application for - " + encodeURIComponent(position.title)}
+                  href={`mailto:careers@sanasofts.com?subject=Application for - ${encodeURIComponent(position.title)}`}
                   className="btn btn-primary inline-block"
                 >
                   Apply Now
