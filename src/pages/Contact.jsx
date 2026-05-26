@@ -17,7 +17,7 @@ function Contact() {
     e.preventDefault();
     const { subject, message, name, email } = formData;
     const mailBody = `From: ${name} (${email})\n\n${message}`;
-    window.location.href = `mailto:contact@sanasofts.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(mailBody)}`;
+    window.location.href = `mailto:lonesalis4@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(mailBody)}`;
     setFormData({ subject: "", message: "", name: "", email: "" });
   };
 
@@ -45,8 +45,8 @@ function Contact() {
                 <div>
                   <h3 className="text-blue-600 font-bold mb-2">Email</h3>
                   <p className="text-gray-700">
-                    <a href="mailto:contact@sanasofts.com" className="hover:underline">
-                      contact@sanasofts.com
+                    <a href="mailto:lonesalis4@gmail.com" className="hover:underline">
+                      lonesalis4@gmail.com
                     </a>
                   </p>
                   <p className="text-gray-600 text-sm mt-2">
@@ -57,8 +57,8 @@ function Contact() {
                 <div>
                   <h3 className="text-blue-600 font-bold mb-2">Phone & WhatsApp</h3>
                   <p className="text-gray-700">
-                    <a href="https://wa.me/yourphonenumber" className="hover:underline">
-                      +1 (XXX) XXX-XXXX
+                    <a href="#" className="hover:underline">
+                      +0 XXX-XXX-XXXX
                     </a>
                   </p>
                   <p className="text-gray-600 text-sm mt-2">
@@ -70,7 +70,7 @@ function Contact() {
                   <h3 className="text-blue-600 font-bold mb-4">Follow Us</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://t.me/salis_amin_lone"
+                      href="https://t.me/salislone"
                       target="_blank"
                       rel="noreferrer"
                       className="block bg-blue-500 hover:bg-blue-600 text-white px-4 py-3 rounded transition text-center"
@@ -78,7 +78,7 @@ function Contact() {
                       🔗 Telegram
                     </a>
                     <a
-                      href="https://instagram.com/salis.amin.lone"
+                      href="https://instagram.com/salis.lone"
                       target="_blank"
                       rel="noreferrer"
                       className="block bg-pink-500 hover:bg-pink-600 text-white px-4 py-3 rounded transition text-center"
@@ -86,7 +86,7 @@ function Contact() {
                       📸 Instagram
                     </a>
                     <a
-                      href="https://github.com"
+                      href="https://github.com/salone1"
                       target="_blank"
                       rel="noreferrer"
                       className="block bg-gray-800 hover:bg-gray-900 text-white px-4 py-3 rounded transition text-center"

@@ -23,7 +23,7 @@ function Footer() {
         {/* Social Links */}
         <div className="social-links flex justify-center gap-4 mb-6">
           <a
-            href="https://t.me/salis_amin_lone"
+            href="https://t.me/salislone"
             target="_blank"
             rel="noreferrer"
             className="inline-block bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded transition font-medium"
@@ -31,7 +31,7 @@ function Footer() {
             🔗 Telegram
           </a>
           <a
-            href="https://instagram.com/salis.amin.lone"
+            href="https://instagram.com/salis.lone"
             target="_blank"
             rel="noreferrer"
             className="inline-block bg-pink-500 hover:bg-pink-600 px-4 py-2 rounded transition font-medium"
@@ -46,7 +46,7 @@ function Footer() {
             &copy; 2026 SANA Softs. All Rights Reserved.
           </p>
           <p className="text-gray-500 text-sm mt-2">
-            Made with ❤️ by <strong>Salis Amin Lone</strong>
+            Made with ❤️ by <strong>Salis Amin Lone Nadiya Rafiq</strong>
           </p>
         </div>
       </div>

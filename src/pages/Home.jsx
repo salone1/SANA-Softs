@@ -35,7 +35,7 @@ function Home() {
                 <strong>SANA Softs</strong> is a professional software company dedicated to building reliable, scalable, and user-friendly applications for businesses and individuals worldwide.
               </p>
               <p className="text-lg text-gray-700 mb-4">
-                Founded by <strong>Salis Amin Lone</strong>, our mission is to bridge the gap between innovation and practicality, delivering software solutions that make a real difference.
+                Founded by <strong>Salis Amin Lone Nadiya Rafiq</strong>, our mission is to bridge the gap between innovation and practicality, delivering software solutions that make a real difference.
               </p>
               <p className="text-lg text-gray-700 mb-6">
                 We specialize in mobile app development, web solutions, cloud deployment, and enterprise consulting. Our team is committed to excellence, reliability, and continuous innovation.
@@ -71,7 +71,7 @@ function Home() {
           <div className="card-grid">
             <div className="card">
               <div className="text-4xl mb-4">📅</div>
-              <h3>JK Calendar App</h3>
+              <h3>JK Hijri Calendar App</h3>
               <p className="text-gray-600">
                 A powerful calendar application designed for productivity. Organize your schedule, set reminders, and manage events effortlessly.
               </p>
@@ -150,7 +150,7 @@ function Home() {
             </p>
             <div className="text-center mt-6">
               <a
-                href="https://yourportfolio.link"
+                href="https://salone1.github.io/Portfolio/"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline"

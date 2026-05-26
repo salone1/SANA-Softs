@@ -9,7 +9,7 @@ function About() {
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h1 className="text-white mb-4">About SANA Softs</h1>
           <p className="text-gray-100 text-lg max-w-3xl mx-auto">
-            Pioneering innovative software solutions since 2020
+            Pioneering innovative software solutions since 2025
           </p>
         </div>
       </section>
@@ -21,7 +21,7 @@ function About() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <p className="text-lg text-gray-700 mb-4">
-                SANA Softs was founded by <strong>Salis Amin Lone</strong> with a vision to transform businesses through innovative software solutions. What started as a passion project has evolved into a trusted software development company serving clients worldwide.
+                SANA Softs was founded by <strong>Salis Amin Lone Nadiya Rafiq</strong> with a vision to transform businesses through innovative software solutions. What started as a passion project has evolved into a trusted software development company serving clients worldwide.
               </p>
               <p className="text-lg text-gray-700 mb-4">
                 We believe in the power of technology to solve real-world problems. Our team is dedicated to creating applications and solutions that make a difference in users' lives and drive business growth.
@@ -33,19 +33,19 @@ function About() {
             <div className="bg-blue-50 p-8 rounded-lg">
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2020</h3>
+                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2025</h3>
                   <p className="text-gray-700">SANA Softs founded with a mission to innovate</p>
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2021</h3>
+                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2025</h3>
                   <p className="text-gray-700">Launched first mobile app - JK Calendar</p>
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2022</h3>
+                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2026</h3>
                   <p className="text-gray-700">Expanded to web development services</p>
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2023-2026</h3>
+                  <h3 className="text-2xl font-bold text-blue-600 mb-2">2025-2026</h3>
                   <p className="text-gray-700">Continuous growth and innovation</p>
                 </div>
               </div>
@@ -95,7 +95,7 @@ function About() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="card text-center">
               <div className="text-7xl mb-4">👨‍💼</div>
-              <h3 className="text-xl font-bold mb-2">Salis Amin Lone</h3>
+              <h3 className="text-xl font-bold mb-2">Salis Amin Lone Nadiya Rafiq</h3>
               <p className="text-blue-600 font-semibold mb-4">Founder & Lead Developer</p>
               <p className="text-gray-600">
                 Passionate software developer with expertise in mobile and web development. Visionary leader driving innovation at SANA Softs.

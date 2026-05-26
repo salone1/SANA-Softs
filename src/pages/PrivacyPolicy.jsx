@@ -19,7 +19,7 @@ function PrivacyPolicy() {
             <div>
               <h2 className="text-2xl font-bold mb-4">Introduction</h2>
               <p className="text-gray-700">
-                SANA Softs ("we", "us", "our") operates the SANA Softs website and mobile applications (collectively, the "Services"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
+                SANA Softs we operates the SANA Softs website and mobile applications (collectively, the "Services"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
               </p>
             </div>
 

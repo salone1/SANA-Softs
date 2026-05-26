@@ -5,10 +5,10 @@ function Apps() {
   const apps = [
     {
       id: "calendar",
-      name: "JK Calendar App",
+      name: "JK Hijri Calendar App",
       icon: "📅",
-      description: "A powerful calendar application for scheduling and event management.",
-      shortDesc: "Organize your schedule with ease. Set reminders, manage events, and boost your productivity.",
+      description: "A powerful calendar application with Hijri calendar management.",
+      shortDesc: "Organize your schedule with Hijri and kashmiri dates  and boost your productivity.",
       category: "Productivity",
     },
     {
@@ -105,7 +105,7 @@ function Apps() {
               📱 Google Play Store
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/salone1/Portfolio/releases"
               target="_blank"
               rel="noreferrer"
               className="btn btn-secondary"

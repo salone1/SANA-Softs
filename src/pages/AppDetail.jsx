@@ -6,11 +6,11 @@ function AppDetail() {
 
   const appData = {
     calendar: {
-      name: "JK Calendar App",
+      name: "JK Hijri Calendar App",
       icon: "📅",
-      version: "2.0.1",
+      version: "1.0.9",
       rating: "4.8",
-      downloads: "50K+",
+      downloads: "50+",
       description: "A comprehensive calendar application that helps you organize your schedule, manage events, and boost productivity.",
       features: [
         "Create and manage events with ease",
@@ -36,20 +36,20 @@ function AppDetail() {
         "Birthday and anniversary reminders",
       ],
       changelog: [
-        "v2.0.1 - Bug fixes and performance improvements",
-        "v2.0.0 - Major redesign with dark mode support",
-        "v1.9.5 - Added event sharing feature",
-        "v1.9.0 - Offline support implementation",
+        "v1.0.9 - Bug fixes and performance improvements",
+        "v1.0.7 -  Redesign with feedback support",
+        "v1.0.5 - Added Holidays feature",
+        "v1.0.0 - Offline support implementation",
       ],
-      downloadLink: "https://github.com/releases/download/calendar-app-2.0.1/calendar.apk",
-      playStoreLink: "https://play.google.com/store/apps/details?id=com.sanasofts.calendar",
+      downloadLink: "https://github.com/salone1/Portfolio/releases/download/v1.0.5/app-release.apk",
+      playStoreLink: "#",
     },
     notes: {
       name: "Smart Notes App",
       icon: "📝",
       version: "1.5.3",
       rating: "4.7",
-      downloads: "30K+",
+      downloads: "30+",
       description: "An intelligent notes app that helps you capture, organize, and access your thoughts from anywhere.",
       features: [
         "Create rich text notes",
@@ -80,8 +80,8 @@ function AppDetail() {
         "v1.4.0 - Cloud backup integration",
         "v1.3.0 - Note sharing capability",
       ],
-      downloadLink: "https://github.com/releases/download/notes-app-1.5.3/notes.apk",
-      playStoreLink: "https://play.google.com/store/apps/details?id=com.sanasofts.notes",
+      downloadLink: "#",
+      playStoreLink: "#",
     },
   };
 
